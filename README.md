@@ -3,16 +3,6 @@
 ## 📌 Project Overview  
 This project analyzes Atliq Hardware’s sales performance using SQL queries to uncover trends, optimize decision-making, and recommend strategic actions based on data from fiscal years 2020 and 2021.
 
-## 📂 Dataset Details  
-- **Time Period:** FY 2020 & 2021  
-- **Data Sources:**  
-  - `fact_sales_monthly` – Monthly sales data with quantity sold  
-  - `dim_customer` – Customer details, including sales channels  
-  - `fact_gross_price` – Product price details  
-  - `dim_product` – Product information  
-
----
-
 ## 📊 Key Business Insights  
 
 ### **📅 Fiscal Year 2020**  
