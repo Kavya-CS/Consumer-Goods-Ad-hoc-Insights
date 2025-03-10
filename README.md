@@ -1,5 +1,4 @@
 # Consumer-Goods-Ad-hoc-Insights
-# 📊 Atliq Hardware Sales Analysis (SQL Project)
 
 ## 📌 Project Overview  
 This project analyzes Atliq Hardware’s sales performance using SQL queries to uncover trends, optimize decision-making, and recommend strategic actions based on data from fiscal years 2020 and 2021.
